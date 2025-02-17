@@ -1,0 +1,7 @@
+C:\Users\гриша\source\repos\Peramide\Peramide\bin\Debug\Peramide.exe.config
+C:\Users\гриша\source\repos\Peramide\Peramide\bin\Debug\Peramide.exe
+C:\Users\гриша\source\repos\Peramide\Peramide\bin\Debug\Peramide.pdb
+C:\Users\гриша\source\repos\Peramide\Peramide\obj\Debug\Peramide.csproj.AssemblyReference.cache
+C:\Users\гриша\source\repos\Peramide\Peramide\obj\Debug\Peramide.csproj.CoreCompileInputs.cache
+C:\Users\гриша\source\repos\Peramide\Peramide\obj\Debug\Peramide.exe
+C:\Users\гриша\source\repos\Peramide\Peramide\obj\Debug\Peramide.pdb
